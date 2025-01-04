@@ -24,7 +24,6 @@ int main() {
     // Sugestão: Utilize a função scanf para capturar as entradas do usuário para cada atributo.
     // Solicite ao usuário que insira as informações de cada cidade, como o código, nome, população, área, etc.
 
-
         printf("Digite o nome do primeiro estado, escolhendo-o entre as opções que estão entre parênteses (A, B, C, D, E, F, G, H): \n");
         scanf("%s", &estado);
         

@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-// Desafio Super Trunfo - Países
+// Desafio Super Trunfo - Países (Nível novato)
 // Tema 1 - Cadastro das Cartas
 
-// Teste aluno Washington
+// Teste aluno Francico Washington de Jesus Melo
 
 int main() {
     
